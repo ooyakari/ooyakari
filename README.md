@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ooyakari
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning Node.js, Javascript & Java
+- 🌱 I’m currently learning React js, Javascript & Python
 - 💞️ I’m looking to collaborate on new projects on mobile
 - 📫 How to reach me God knows
 
